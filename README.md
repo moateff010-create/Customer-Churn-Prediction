@@ -108,7 +108,7 @@ Ensure you have Python 3.9+ installed along with the required libraries.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/moateff010-create/Customer-Churn-Prediction.git](https://github.com/moateff010-create/Customer-Churn-Prediction.git)
+git clone https://github.com/moateff010-create/Customer-Churn-Prediction.git
 cd Customer-Churn-Prediction
 
 # Install dependencies
